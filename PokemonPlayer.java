@@ -1,7 +1,6 @@
 /**
  * This is the player class for the pokemon battle game, this class works with Pokemon and PokemonTester 
  * @author Mohit Sharma
- * Oct 27th 2020
  * @version 1
  */
 
