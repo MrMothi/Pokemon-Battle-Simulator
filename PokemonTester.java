@@ -1,7 +1,6 @@
 /**
  * This is the tester class for the 
  * @author Mohit Sharma
- * Oct 27th 2020
  * @version 1
  */
 
