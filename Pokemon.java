@@ -2,7 +2,6 @@
  * This is the Pokemon class which is the base class for all the pokemon being 
  * used in the PokemonMain class 
  * @author Mohit Sharma
- * Oct 27 2020
  * @version 1
  */
 import java.util.*; //importing all classes
